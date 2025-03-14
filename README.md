@@ -1,6 +1,5 @@
 <!-- <p align="center"><img align="center" width="300" src="./assets/Logo/WiseWatts_logo.jpeg"></p> -->
 <p align="center">
-  <img src="<p align="center">
   <img src="./assets/Logo/WiseWatts_logo.jpeg" alt="Home Appliance Energy Monitoring" width="300">
 </p>
 
