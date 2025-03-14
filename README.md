@@ -1,4 +1,10 @@
-<p align="center"><img align="center" width="300" src="./assets/Logo/WiseWatts_logo.jpeg"></p>
+<!-- <p align="center"><img align="center" width="300" src="./assets/Logo/WiseWatts_logo.jpeg"></p> -->
+# ![Home Appliance Energy Monitoring](./assets/Logo/WiseWatts_logo.jpeg) Home Appliance Energy Monitoring
+
+**Home Appliance Energy Monitoring** is a smart energy monitoring app designed to help users track and optimize household appliance energy consumption. The app provides real-time data visualization, remote appliance control, and energy-saving recommendations. It supports multiple data interaction methods, including API integration, simulated data, and manual input.
+
+---
+
 
 <!-- <h1 align="center">LFTrack: Instant, Accurate, and Secure LFT Results at Your Fingertips</h1>
 <h3 align="center">Also visit <a href="https://adityojulian.github.io/LFTrack/">LFTrack microsite</a> for more info!</h3> -->
