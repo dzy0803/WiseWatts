@@ -1,5 +1,23 @@
 <!-- <p align="center"><img align="center" width="300" src="./assets/Logo/WiseWatts_logo.jpeg"></p> -->
-# ![Home Appliance Energy Monitoring](./assets/Logo/WiseWatts_logo.jpeg) Home Appliance Energy Monitoring
+<p align="center">
+  <img src="<p align="center">
+  <img src="logo.png" alt="Home Appliance Energy Monitoring" width="300">
+</p>
+
+# Home Appliance Energy Monitoring
+
+**Home Appliance Energy Monitoring** is a smart energy monitoring app designed to help users track and optimize household appliance energy consumption. The app provides real-time data visualization, remote appliance control, and energy-saving recommendations. It supports multiple data interaction methods, including API integration, simulated data, and manual input.
+
+---
+" alt="Home Appliance Energy Monitoring" width="150">
+</p>
+
+# Home Appliance Energy Monitoring
+
+**Home Appliance Energy Monitoring** is a smart energy monitoring app designed to help users track and optimize household appliance energy consumption. The app provides real-time data visualization, remote appliance control, and energy-saving recommendations. It supports multiple data interaction methods, including API integration, simulated data, and manual input.
+
+---
+
 
 **Home Appliance Energy Monitoring** is a smart energy monitoring app designed to help users track and optimize household appliance energy consumption. The app provides real-time data visualization, remote appliance control, and energy-saving recommendations. It supports multiple data interaction methods, including API integration, simulated data, and manual input.
 
