@@ -1,3 +1,8 @@
+<p align="center"><img align="center" width="300" src="./assets/WiseWatts_logo.jpeg"></p>
+
+<!-- <h1 align="center">LFTrack: Instant, Accurate, and Secure LFT Results at Your Fingertips</h1>
+<h3 align="center">Also visit <a href="https://adityojulian.github.io/LFTrack/">LFTrack microsite</a> for more info!</h3> -->
+
 # WiseWatts
 
 This is the Final assessment template for CASA0014 - Please use this template and edit the relevant sections to personalise.
