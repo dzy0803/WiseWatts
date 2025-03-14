@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="300" src="./assets/WiseWatts_logo.jpeg"></p>
+<p align="center"><img align="center" width="300" src="./assets/Logo/WiseWatts_logo.jpeg"></p>
 
 <!-- <h1 align="center">LFTrack: Instant, Accurate, and Secure LFT Results at Your Fingertips</h1>
 <h3 align="center">Also visit <a href="https://adityojulian.github.io/LFTrack/">LFTrack microsite</a> for more info!</h3> -->
